@@ -919,11 +919,11 @@
       </xilinx:taxonomies>
       <xilinx:displayName>myoControl_v1.0</xilinx:displayName>
       <xilinx:vendorURL>http://roboy.org</xilinx:vendorURL>
-      <xilinx:coreRevision>4</xilinx:coreRevision>
+      <xilinx:coreRevision>5</xilinx:coreRevision>
       <xilinx:upgrades>
         <xilinx:canUpgradeFrom>user.org:user:myoControl:1.0</xilinx:canUpgradeFrom>
       </xilinx:upgrades>
-      <xilinx:coreCreationDateTime>2019-07-25T22:06:39Z</xilinx:coreCreationDateTime>
+      <xilinx:coreCreationDateTime>2019-07-28T14:42:18Z</xilinx:coreCreationDateTime>
       <xilinx:tags>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@6c0c7e12_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@5303fb93_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
@@ -1002,6 +1002,10 @@
         <xilinx:tag xilinx:name="ui.data.coregen.dd@4ac20244_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@58b689fa_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
         <xilinx:tag xilinx:name="ui.data.coregen.dd@39ad1637_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@48dc748_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@f10f4a0_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@1e5ae7b6_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
+        <xilinx:tag xilinx:name="ui.data.coregen.dd@67192b5c_ARCHIVE_LOCATION">/home/letrend/workspace/roboy_fpga_ips/myoControl_1.0</xilinx:tag>
       </xilinx:tags>
     </xilinx:coreExtensions>
     <xilinx:packagingInfo>
